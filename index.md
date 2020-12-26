@@ -6,6 +6,13 @@ Hi! I'm Agustín Escobar and you've reached my website.
 
 1. [ODE and PDE Numerical Methods Implentation in Python](https://github.com/atescobar/NumericMethods/tree/master/NumericalMethods)
 
+## Work Experience
+
+1. Data Scientist & PMO at the Secretariat of Communications of the Government of Chile. 
+
+2. Data Science & Web Development Consultant at Konstruyendo.com
+
+3. Programming & Robotics teacher at Colegio Montessori Pucalan
 
 ## Research Experience
 
@@ -29,7 +36,7 @@ Presented thesis developments in the School of Nanotechnology organized by the U
 
 ## Hobbies
 
-I like to play music and read.
+I like to play music and read. You can checkout my band [here](https://open.spotify.com/artist/5Fy0G9AIgJIGVn3mW8a1lW?si=pKVbaqq-QLqCo58cBFyR3A) (we played folk rock).
 
 ### Curriculum Vitae
 
