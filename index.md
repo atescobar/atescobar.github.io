@@ -8,11 +8,11 @@ Hi! I'm Agustín Escobar and you've reached my website.
 
 ## Work Experience
 
-1. Data Scientist & PMO at the Secretariat of Communications of the Government of Chile. 
+1. Data Scientist & PMO at the Secretariat of Communications of the Government of Chile. (Current Job, June 2019, present date)
 
-2. Data Science & Web Development Consultant at Konstruyendo.com
+2. Data Science & Web Development Consultant at Konstruyendo.com. (Current Job, Jan 2020, present date)
 
-3. Programming & Robotics teacher at Colegio Montessori Pucalan
+3. Programming & Robotics teacher at Colegio Montessori Pucalan (Jan 2018, jan 2019)
 
 ## Research Experience
 
