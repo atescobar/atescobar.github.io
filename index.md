@@ -9,10 +9,14 @@ Hi! I'm Agustín Escobar and you've reached my website.
 ## Work Experience
 
 1. Data Scientist & PMO at the Secretariat of Communications of the Government of Chile. (Current Job, June 2019, present date)
+I manage a team of 2 Data Scientist where we build an interface for our team to interact with twitter API and visualize analytics from social media in general. We worked with tools such as Google Cloud Platform were we setup our infrastructure and we used Composer (Google's Airflow as a service) to handle our data pipelines. I worked closely with the Presindent's Social Media Team as well as with Jaime Bellolio, the Government Spokesman Minister.
 
 2. Data Science & Web Development Consultant at Konstruyendo.com. (Current Job, Jan 2020, present date)
+I built a pricing comparison tool for Konstruyendo.com using Reactjs and Flask. I also build a text classification tool for them where we classify product description strings into categories key to the business. The same webdeveloment tools were used for the classification tool and tensorflow was the ML framework used to build the classifier. 
 
 3. Programming & Robotics teacher at Colegio Montessori Pucalan (Jan 2018, jan 2019)
+I tought robotics and programming to highschool students. We used arduino to build automatic cars which had to run in a poligon without crashing with the walls.
+
 
 ## Research Experience
 
